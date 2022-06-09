@@ -1,0 +1,32 @@
+body{
+  background-color: hsl(218, 28%, 13%);
+} 
+
+ 
+ .logo1{ 
+   position:right
+ } 
+ 
+
+h1{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+label{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+input{
+  color: navy;
+  font-family: 'Raleway', sans-serif;
+  border: 2px solid white;
+  border-radius: 2px;
+}
+
